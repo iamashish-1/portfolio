@@ -575,7 +575,7 @@ text-shadow: 0 0 25px var(--main-color);
       .services{
         padding-bottom: 7rem;
       }
-      .testimonials .wrapper{
+      .quotes .wrapper{
         grid-template-columns: repeat(1,1fr);  
       }
       .contact form{
